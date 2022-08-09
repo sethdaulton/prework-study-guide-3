@@ -10,13 +10,6 @@ It offers a one stop shop for notes on each of the topics (HTML, CSS, JavaScript
 
 I learned about each of these topics through the creation of this website. 
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
 ## Installation
 
 N/A

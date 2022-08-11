@@ -53,3 +53,7 @@ p {
     border: 5px solid rgb(0, 0, 255);
     box-shadow: 5px 10px #27272b;
   }
+
+  .image {
+    width: 80px;
+  }
